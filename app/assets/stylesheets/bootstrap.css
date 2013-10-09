@@ -4458,6 +4458,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom-color: #777777;
 }
 
+.navbar-wrapper{
+	margin-top: 20px;
+}
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #777777;
@@ -4492,6 +4495,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse {
   background-color: #222222;
   border-color: #080808;
+  border-radius: 4px;
 }
 
 .navbar-inverse .navbar-brand {
@@ -4548,6 +4552,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
   border-color: #101010;
+  border-radius: 4px;
 }
 
 .navbar-inverse .navbar-nav > .open > a,
