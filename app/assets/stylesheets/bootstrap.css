@@ -25,6 +25,12 @@ summary {
   display: block;
 }
 
+
+#center{
+	width: 900px; 
+	margin: 0 auto;
+}
+
 audio,
 canvas,
 video {
