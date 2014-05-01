@@ -6195,10 +6195,10 @@ body.modal-open,
   .carousel-caption {
     right: 20%;
     left: 20%;
-    padding-bottom: 30px;
+    bottom: -20px;
   }
   .carousel-indicators {
-    bottom: 20px;
+    bottom: -10px;
   }
 }
 
